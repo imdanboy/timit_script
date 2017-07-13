@@ -1,0 +1,3 @@
+- https://github.com/zzw922cn/Automatic_Speech_Recognition
+- https://github.com/igormq/ctc_tensorflow_example
+- https://github.com/jonrein/tensorflow_CTC_example
